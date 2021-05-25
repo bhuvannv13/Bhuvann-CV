@@ -1,0 +1,23 @@
+body{
+    background-color:wheat;
+    border-style: dashed dashed dashed dashed;
+    
+ }
+h1{
+  color: aqua;
+} 
+h3{
+  color: aqua;
+}
+hr{         
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    border-color:gray;
+    
+ }
+img{
+  height: 200px ;
+}    
